@@ -28,7 +28,7 @@ Chosen topics: Data Structures and Pseudocode.
 
 **Answer:** Stack
 
-**Justification:** The last symbol opened must be closed first. A stack keeps track of the opening symbols. Each closing symbol must match the opening symbol on top of the stack, which is then removed. If they do not match, the stack is empty when a closing symbol appears, or opening symbols are left at the end, there is an error.
+**Justification:** The last symbol opened must be closed first. A stack keeps track of the opening symbols. Each closing symbol must match the opening symbol on top of the stack, which is then removed. If they do not match, the stack is empty when a closing symbol appears, or opening symbols are left at the end, there is an error
 
 ## Pseudocode
 
